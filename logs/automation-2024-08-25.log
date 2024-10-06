@@ -1,0 +1,47 @@
+2024-08-25 09:22:31,383(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-08-25 09:22:32,190(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-25 09:22:36,291(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-25 09:22:37,034(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Logging out.
+2024-08-25 09:22:38,324(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-25 09:22:40,107(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-25 09:22:40,659(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Logging out.
+2024-08-25 09:22:53,239(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest **** Starting loginWithValidCredentials ***
+2024-08-25 09:22:55,524(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Validating
+2024-08-25 09:23:09,366(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Logging out.
+2024-08-25 09:23:18,970(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-25 09:23:18,971(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-08-25 09:23:19,009(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT **** Starting TC03_LoginDDT ***
+2024-08-25 09:23:21,554(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT Validating
+2024-08-25 09:23:21,955(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT Logged in.
+2024-08-25 09:23:21,955(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT Logging out.
+2024-08-25 09:23:23,249(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT **** Starting TC03_LoginDDT ***
+2024-08-25 09:23:24,516(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT Validating
+2024-08-25 09:23:34,566(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT **** Starting TC03_LoginDDT ***
+2024-08-25 09:23:35,712(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT Validating
+2024-08-25 09:23:45,750(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT **** Starting TC03_LoginDDT ***
+2024-08-25 09:23:45,996(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT Validating
+2024-08-25 09:23:47,605(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT Logged in.
+2024-08-25 09:23:47,605(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT Logging out.
+2024-08-25 22:12:58,459(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-25 22:12:58,518(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-08-25 22:12:59,612(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-25 22:13:01,736(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-25 22:13:02,425(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Logging out.
+2024-08-25 22:13:05,135(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-25 22:13:07,288(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-25 22:13:07,859(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Logging out.
+2024-08-25 22:13:23,274(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest **** Starting loginWithValidCredentials ***
+2024-08-25 22:13:33,321(HH:mm:ss.SSS) [main] ERROR testCases.TC01_AdminPageTest Test failed.
+2024-08-25 22:13:33,321(HH:mm:ss.SSS) [main] DEBUG testCases.TC01_AdminPageTest Debug logs.
+2024-08-25 22:14:14,268(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Logging out.
+2024-08-25 22:14:38,297(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-25 22:14:38,299(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-08-25 22:14:38,350(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT **** Starting TC03_LoginDDT ***
+2024-08-25 22:14:40,833(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT Validating
+2024-08-25 22:14:42,410(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT Logged in.
+2024-08-25 22:14:42,410(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT Logging out.
+2024-08-25 22:14:44,401(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT **** Starting TC03_LoginDDT ***
+2024-08-25 22:14:45,081(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT Validating
+2024-08-25 22:14:56,187(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT **** Starting TC03_LoginDDT ***
+2024-08-25 22:14:57,513(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT Validating
+2024-08-25 22:15:07,684(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT **** Starting TC03_LoginDDT ***

@@ -1,0 +1,45 @@
+2024-08-10 11:30:19,765(HH:mm:ss.SSS) [TestNG-tests-1] INFO  testCases.TC00_LoginPageTest **** Starting loginWithInvalidCredentials ***
+2024-08-10 11:30:49,108(HH:mm:ss.SSS) [TestNG-tests-2] INFO  testCases.TC00_LoginPageTest **** Starting loginWithInvalidCredentials ***
+2024-08-10 11:30:59,120(HH:mm:ss.SSS) [TestNG-tests-1] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-10 11:30:59,316(HH:mm:ss.SSS) [TestNG-tests-1] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-10 11:31:02,802(HH:mm:ss.SSS) [TestNG-tests-1] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-10 11:31:05,050(HH:mm:ss.SSS) [TestNG-tests-2] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-10 11:31:05,059(HH:mm:ss.SSS) [TestNG-tests-2] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-10 11:31:07,059(HH:mm:ss.SSS) [TestNG-tests-2] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-10 17:42:44,558(HH:mm:ss.SSS) [TestNG-tests-2] INFO  testCases.TC00_LoginPageTest **** Starting loginWithInvalidCredentials ***
+2024-08-10 17:42:46,323(HH:mm:ss.SSS) [TestNG-tests-1] INFO  testCases.TC00_LoginPageTest **** Starting loginWithInvalidCredentials ***
+2024-08-10 17:42:59,182(HH:mm:ss.SSS) [TestNG-tests-1] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-10 17:42:59,196(HH:mm:ss.SSS) [TestNG-tests-1] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-10 17:42:59,262(HH:mm:ss.SSS) [TestNG-tests-2] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-10 17:42:59,268(HH:mm:ss.SSS) [TestNG-tests-2] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-10 17:43:01,608(HH:mm:ss.SSS) [TestNG-tests-2] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-10 17:43:03,080(HH:mm:ss.SSS) [TestNG-tests-1] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-10 17:43:24,194(HH:mm:ss.SSS) [TestNG-tests-3] INFO  testCases.TC00_LoginPageTest **** Starting loginWithInvalidCredentials ***
+2024-08-10 17:43:32,154(HH:mm:ss.SSS) [TestNG-tests-3] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-10 17:43:32,162(HH:mm:ss.SSS) [TestNG-tests-3] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-10 17:43:35,302(HH:mm:ss.SSS) [TestNG-tests-3] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-10 20:49:30,224(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithInvalidCredentials ***
+2024-08-10 20:49:34,071(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-10 20:49:34,086(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-10 20:49:35,668(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-10 21:14:27,376(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithInvalidCredentials ***
+2024-08-10 21:14:31,215(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-10 21:14:31,241(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-10 21:14:32,886(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-10 21:17:16,558(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithInvalidCredentials ***
+2024-08-10 21:17:19,439(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-10 21:17:19,468(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-10 21:17:21,233(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-10 21:19:11,793(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithInvalidCredentials ***
+2024-08-10 21:19:22,748(HH:mm:ss.SSS) [main] ERROR testCases.TC00_LoginPageTest Test failed.
+2024-08-10 21:19:22,748(HH:mm:ss.SSS) [main] DEBUG testCases.TC00_LoginPageTest Debug logs.
+2024-08-10 21:19:22,763(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-10 21:19:32,779(HH:mm:ss.SSS) [main] ERROR testCases.TC00_LoginPageTest Test failed.
+2024-08-10 21:19:32,779(HH:mm:ss.SSS) [main] DEBUG testCases.TC00_LoginPageTest Debug logs.
+2024-08-10 21:20:14,930(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithInvalidCredentials ***
+2024-08-10 21:20:17,555(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-10 21:20:17,572(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-10 21:20:18,971(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-10 21:21:57,652(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithInvalidCredentials ***
+2024-08-10 21:22:00,497(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-10 21:22:00,519(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***

@@ -1,0 +1,50 @@
+2024-08-11 13:13:54,227(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT Logging out.
+2024-08-11 13:14:04,629(HH:mm:ss.SSS) [main] ERROR testCases.TC03_LoginDDT Test failed.
+2024-08-11 13:14:04,629(HH:mm:ss.SSS) [main] DEBUG testCases.TC03_LoginDDT Debug logs.
+2024-08-11 13:14:04,658(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT **** Starting TC03_LoginDDT ***
+2024-08-11 13:14:14,735(HH:mm:ss.SSS) [main] ERROR testCases.TC03_LoginDDT Test failed.
+2024-08-11 13:14:14,736(HH:mm:ss.SSS) [main] DEBUG testCases.TC03_LoginDDT Debug logs.
+2024-08-11 13:14:14,742(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT **** Starting TC03_LoginDDT ***
+2024-08-11 13:14:24,764(HH:mm:ss.SSS) [main] ERROR testCases.TC03_LoginDDT Test failed.
+2024-08-11 13:14:24,768(HH:mm:ss.SSS) [main] DEBUG testCases.TC03_LoginDDT Debug logs.
+2024-08-11 13:14:24,776(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT **** Starting TC03_LoginDDT ***
+2024-08-11 13:14:34,808(HH:mm:ss.SSS) [main] ERROR testCases.TC03_LoginDDT Test failed.
+2024-08-11 13:14:34,809(HH:mm:ss.SSS) [main] DEBUG testCases.TC03_LoginDDT Debug logs.
+2024-08-11 13:18:49,162(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-11 13:18:49,175(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-08-11 13:19:00,328(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT **** Starting TC03_LoginDDT ***
+2024-08-11 13:19:03,529(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT Validating
+2024-08-11 13:19:05,970(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT Logged in.
+2024-08-11 13:19:05,970(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT Logging out.
+2024-08-11 13:19:09,558(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT **** Starting TC03_LoginDDT ***
+2024-08-11 13:19:11,254(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT Validating
+2024-08-11 13:19:21,370(HH:mm:ss.SSS) [main] ERROR testCases.TC03_LoginDDT Test failed.
+2024-08-11 13:19:21,370(HH:mm:ss.SSS) [main] DEBUG testCases.TC03_LoginDDT Debug logs.
+2024-08-11 13:19:21,381(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT **** Starting TC03_LoginDDT ***
+2024-08-11 13:19:23,156(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT Validating
+2024-08-11 13:19:33,179(HH:mm:ss.SSS) [main] ERROR testCases.TC03_LoginDDT Test failed.
+2024-08-11 13:19:33,179(HH:mm:ss.SSS) [main] DEBUG testCases.TC03_LoginDDT Debug logs.
+2024-08-11 13:19:33,185(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT **** Starting TC03_LoginDDT ***
+2024-08-11 13:19:35,118(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT Validating
+2024-08-11 13:19:35,837(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT Logged in.
+2024-08-11 13:19:35,837(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT Logging out.
+2024-08-11 13:49:26,302(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-11 13:49:26,396(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-08-11 13:49:40,551(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT **** Starting TC03_LoginDDT ***
+2024-08-11 13:49:43,866(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT Validating
+2024-08-11 13:49:43,869(HH:mm:ss.SSS) [main] ERROR testCases.TC03_LoginDDT Test failed.
+2024-08-11 13:49:43,871(HH:mm:ss.SSS) [main] DEBUG testCases.TC03_LoginDDT Debug logs.
+2024-08-11 13:49:43,894(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT **** Starting TC03_LoginDDT ***
+2024-08-11 13:49:54,153(HH:mm:ss.SSS) [main] ERROR testCases.TC03_LoginDDT Test failed.
+2024-08-11 13:49:54,153(HH:mm:ss.SSS) [main] DEBUG testCases.TC03_LoginDDT Debug logs.
+2024-08-11 13:49:54,163(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT **** Starting TC03_LoginDDT ***
+2024-08-11 13:50:04,241(HH:mm:ss.SSS) [main] ERROR testCases.TC03_LoginDDT Test failed.
+2024-08-11 13:50:04,241(HH:mm:ss.SSS) [main] DEBUG testCases.TC03_LoginDDT Debug logs.
+2024-08-11 13:50:04,296(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT **** Starting TC03_LoginDDT ***
+2024-08-11 13:50:14,334(HH:mm:ss.SSS) [main] ERROR testCases.TC03_LoginDDT Test failed.
+2024-08-11 13:50:14,334(HH:mm:ss.SSS) [main] DEBUG testCases.TC03_LoginDDT Debug logs.
+2024-08-11 13:51:54,605(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-11 13:51:54,618(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-08-11 13:51:55,828(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT **** Starting TC03_LoginDDT ***
+2024-08-11 13:51:57,517(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT Validating
+2024-08-11 13:51:58,255(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT Logged in.

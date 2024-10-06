@@ -1,0 +1,39 @@
+2024-09-07 18:59:16,325(HH:mm:ss.SSS) [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-07 18:59:16,397(HH:mm:ss.SSS) [TestNG-tests-2] INFO  testCases.TC02_LoginDDT **** Starting loginWithValidCredentials ***
+2024-09-07 18:59:16,446(HH:mm:ss.SSS) [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-09-07 18:59:16,609(HH:mm:ss.SSS) [TestNG-tests-1] INFO  testCases.TC02_LoginDDT **** Starting loginWithInvalidCredentials ***
+2024-09-07 18:59:19,514(HH:mm:ss.SSS) [TestNG-tests-2] INFO  testCases.TC02_LoginDDT Validating
+2024-09-07 18:59:19,602(HH:mm:ss.SSS) [TestNG-tests-1] ERROR testCases.TC02_LoginDDT Test failed.
+2024-09-07 18:59:19,633(HH:mm:ss.SSS) [TestNG-tests-1] DEBUG testCases.TC02_LoginDDT Debug logs.
+2024-09-07 18:59:19,640(HH:mm:ss.SSS) [TestNG-tests-1] INFO  testCases.TC02_LoginDDT **** Starting loginWithInvalidCredentials ***
+2024-09-07 18:59:29,630(HH:mm:ss.SSS) [TestNG-tests-2] INFO  testCases.TC02_LoginDDT **** Starting loginWithValidCredentials ***
+2024-09-07 18:59:30,556(HH:mm:ss.SSS) [TestNG-tests-1] INFO  testCases.TC02_LoginDDT Validating
+2024-09-07 18:59:31,684(HH:mm:ss.SSS) [TestNG-tests-2] ERROR testCases.TC02_LoginDDT Test failed.
+2024-09-07 18:59:31,684(HH:mm:ss.SSS) [TestNG-tests-2] DEBUG testCases.TC02_LoginDDT Debug logs.
+2024-09-07 18:59:31,720(HH:mm:ss.SSS) [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-07 18:59:31,729(HH:mm:ss.SSS) [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-09-07 18:59:31,755(HH:mm:ss.SSS) [TestNG-tests-2] INFO  testCases.TC02_LoginDDT **** Starting loginWithInvalidCredentials ***
+2024-09-07 18:59:33,032(HH:mm:ss.SSS) [TestNG-tests-2] ERROR testCases.TC02_LoginDDT Test failed.
+2024-09-07 18:59:33,032(HH:mm:ss.SSS) [TestNG-tests-2] DEBUG testCases.TC02_LoginDDT Debug logs.
+2024-09-07 18:59:33,039(HH:mm:ss.SSS) [TestNG-tests-2] INFO  testCases.TC02_LoginDDT **** Starting loginWithInvalidCredentials ***
+2024-09-07 18:59:33,089(HH:mm:ss.SSS) [TestNG-tests-2] ERROR testCases.TC02_LoginDDT Test failed.
+2024-09-07 18:59:33,090(HH:mm:ss.SSS) [TestNG-tests-2] DEBUG testCases.TC02_LoginDDT Debug logs.
+2024-09-07 19:06:45,623(HH:mm:ss.SSS) [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-07 19:06:45,623(HH:mm:ss.SSS) [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-07 19:06:45,635(HH:mm:ss.SSS) [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-09-07 19:06:45,636(HH:mm:ss.SSS) [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-09-07 19:06:47,018(HH:mm:ss.SSS) [TestNG-tests-1] INFO  testCases.TC02_LoginDDT **** Starting loginWithValidCredentials ***
+2024-09-07 19:06:47,022(HH:mm:ss.SSS) [TestNG-tests-2] INFO  testCases.TC02_LoginDDT **** Starting loginWithValidCredentials ***
+2024-09-07 19:06:47,621(HH:mm:ss.SSS) [TestNG-tests-1] INFO  testCases.TC02_LoginDDT Validating
+2024-09-07 19:06:48,605(HH:mm:ss.SSS) [TestNG-tests-2] ERROR testCases.TC02_LoginDDT Test failed.
+2024-09-07 19:06:48,606(HH:mm:ss.SSS) [TestNG-tests-2] DEBUG testCases.TC02_LoginDDT Debug logs.
+2024-09-07 19:06:48,626(HH:mm:ss.SSS) [TestNG-tests-2] INFO  testCases.TC02_LoginDDT **** Starting loginWithValidCredentials ***
+2024-09-07 19:06:58,655(HH:mm:ss.SSS) [TestNG-tests-1] INFO  testCases.TC02_LoginDDT **** Starting loginWithValidCredentials ***
+2024-09-07 19:06:59,438(HH:mm:ss.SSS) [TestNG-tests-2] INFO  testCases.TC02_LoginDDT Validating
+2024-09-07 19:07:08,936(HH:mm:ss.SSS) [TestNG-tests-3] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-07 19:07:08,945(HH:mm:ss.SSS) [TestNG-tests-3] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-09-07 19:07:09,099(HH:mm:ss.SSS) [TestNG-tests-3] INFO  testCases.TC02_LoginDDT **** Starting loginWithValidCredentials ***
+2024-09-07 19:07:11,030(HH:mm:ss.SSS) [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-07 19:07:11,034(HH:mm:ss.SSS) [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-09-07 19:07:11,071(HH:mm:ss.SSS) [TestNG-tests-1] INFO  testCases.TC02_LoginDDT Validating
+2024-09-07 19:07:11,162(HH:mm:ss.SSS) [TestNG-tests-2] INFO  testCases.TC02_LoginDDT **** Starting loginWithInvalidCredentials ***

@@ -1,0 +1,44 @@
+2024-09-24 07:47:16,159(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT **** Starting loginWithValidCredentials ***
+2024-09-24 07:47:18,295(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT Validating
+2024-09-24 07:47:19,107(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT Logging out.
+2024-09-24 07:47:20,814(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-24 07:47:20,816(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-09-24 07:47:20,902(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT **** Starting loginWithInvalidCredentials ***
+2024-09-24 07:47:22,411(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT Validating
+2024-09-24 07:47:23,162(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT **** Starting loginWithInvalidCredentials ***
+2024-09-24 07:47:24,781(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT Validating
+2024-09-26 06:29:45,567(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest **** Starting loginWithValidCredentials ***
+2024-09-26 06:29:48,414(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Validating
+2024-09-26 06:29:54,469(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Logging out.
+2024-09-26 06:30:06,077(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-26 06:30:06,083(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-09-26 06:30:07,054(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT **** Starting loginWithValidCredentials ***
+2024-09-26 06:30:09,294(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT Validating
+2024-09-26 06:30:10,051(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT Logging out.
+2024-09-26 06:30:11,492(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT **** Starting loginWithValidCredentials ***
+2024-09-26 06:30:12,205(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT Validating
+2024-09-26 06:30:27,162(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-26 06:30:27,164(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-09-26 06:30:27,208(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT **** Starting loginWithInvalidCredentials ***
+2024-09-26 06:30:37,226(HH:mm:ss.SSS) [main] ERROR testCases.TC02_LoginDDT Test failed.
+2024-09-26 06:30:37,226(HH:mm:ss.SSS) [main] DEBUG testCases.TC02_LoginDDT Debug logs.
+2024-09-26 06:30:37,232(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT **** Starting loginWithInvalidCredentials ***
+2024-09-26 06:30:47,293(HH:mm:ss.SSS) [main] ERROR testCases.TC02_LoginDDT Test failed.
+2024-09-26 06:30:47,293(HH:mm:ss.SSS) [main] DEBUG testCases.TC02_LoginDDT Debug logs.
+2024-09-26 06:34:39,338(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest **** Starting loginWithValidCredentials ***
+2024-09-26 06:34:41,691(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Validating
+2024-09-26 06:34:47,347(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Logging out.
+2024-09-26 06:34:56,526(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-26 06:34:56,530(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-09-26 06:34:57,719(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT **** Starting loginWithValidCredentials ***
+2024-09-26 06:34:59,272(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT Validating
+2024-09-26 06:34:59,699(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT Logging out.
+2024-09-26 06:35:01,012(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT **** Starting loginWithValidCredentials ***
+2024-09-26 06:35:01,585(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT Validating
+2024-09-26 06:35:03,223(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT Logging out.
+2024-09-26 06:35:04,675(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-26 06:35:04,679(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-09-26 06:35:04,753(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT **** Starting loginWithInvalidCredentials ***
+2024-09-26 06:35:05,947(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT Validating
+2024-09-26 06:35:06,320(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT **** Starting loginWithInvalidCredentials ***
+2024-09-26 06:35:07,228(HH:mm:ss.SSS) [main] INFO  testCases.TC02_LoginDDT Validating

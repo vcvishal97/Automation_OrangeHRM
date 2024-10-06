@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="masterSuite">
+  <parameter name="os" value="windows"/>
+  <parameter name="browser" value="chrome"/>
+  <test name="loginPageTest">
+    <classes>
+      <class name="testCases.TC01_AdminPageTest"/>
+	  <class name="testCases.TC02_LoginDDT"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->

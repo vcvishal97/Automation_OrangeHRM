@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-26T06:34:29 IST" name="masterSuite" finished-at="2024-09-26T06:35:07 IST" duration-ms="38557">
+    <groups>
+      <group name="datadriven">
+        <method signature="TC02_LoginDDT.validLogin(java.lang.String,java.lang.String)[pri:1, instance:testCases.TC02_LoginDDT@4cc451f2]" name="validLogin" class="testCases.TC02_LoginDDT"/>
+        <method signature="TC02_LoginDDT.invalidLogin(java.lang.String,java.lang.String)[pri:2, instance:testCases.TC02_LoginDDT@4cc451f2]" name="invalidLogin" class="testCases.TC02_LoginDDT"/>
+      </group> <!-- datadriven -->
+      <group name="regression">
+        <method signature="TC01_AdminPageTest.loginWithValidCredentials()[pri:0, instance:testCases.TC01_AdminPageTest@3e58a80e]" name="loginWithValidCredentials" class="testCases.TC01_AdminPageTest"/>
+        <method signature="TC01_AdminPageTest.clickAdminButton()[pri:1, instance:testCases.TC01_AdminPageTest@3e58a80e]" name="clickAdminButton" class="testCases.TC01_AdminPageTest"/>
+        <method signature="TC01_AdminPageTest.testSearchValidSystemUsers(java.lang.String)[pri:2, instance:testCases.TC01_AdminPageTest@3e58a80e]" name="testSearchValidSystemUsers" class="testCases.TC01_AdminPageTest"/>
+        <method signature="TC01_AdminPageTest.testSearchInvalidSystemUsers(java.lang.String)[pri:3, instance:testCases.TC01_AdminPageTest@3e58a80e]" name="testSearchInvalidSystemUsers" class="testCases.TC01_AdminPageTest"/>
+        <method signature="TC01_AdminPageTest.logout()[pri:4, instance:testCases.TC01_AdminPageTest@3e58a80e]" name="logout" class="testCases.TC01_AdminPageTest"/>
+      </group> <!-- regression -->
+      <group name="master">
+        <method signature="TC01_AdminPageTest.loginWithValidCredentials()[pri:0, instance:testCases.TC01_AdminPageTest@3e58a80e]" name="loginWithValidCredentials" class="testCases.TC01_AdminPageTest"/>
+        <method signature="TC01_AdminPageTest.clickAdminButton()[pri:1, instance:testCases.TC01_AdminPageTest@3e58a80e]" name="clickAdminButton" class="testCases.TC01_AdminPageTest"/>
+        <method signature="TC02_LoginDDT.validLogin(java.lang.String,java.lang.String)[pri:1, instance:testCases.TC02_LoginDDT@4cc451f2]" name="validLogin" class="testCases.TC02_LoginDDT"/>
+        <method signature="TC01_AdminPageTest.testSearchValidSystemUsers(java.lang.String)[pri:2, instance:testCases.TC01_AdminPageTest@3e58a80e]" name="testSearchValidSystemUsers" class="testCases.TC01_AdminPageTest"/>
+        <method signature="TC02_LoginDDT.invalidLogin(java.lang.String,java.lang.String)[pri:2, instance:testCases.TC02_LoginDDT@4cc451f2]" name="invalidLogin" class="testCases.TC02_LoginDDT"/>
+        <method signature="TC01_AdminPageTest.testSearchInvalidSystemUsers(java.lang.String)[pri:3, instance:testCases.TC01_AdminPageTest@3e58a80e]" name="testSearchInvalidSystemUsers" class="testCases.TC01_AdminPageTest"/>
+        <method signature="TC01_AdminPageTest.logout()[pri:4, instance:testCases.TC01_AdminPageTest@3e58a80e]" name="logout" class="testCases.TC01_AdminPageTest"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2024-09-26T06:34:29 IST" name="loginPageTest" finished-at="2024-09-26T06:35:07 IST" duration-ms="38557">
+      <class name="testCases.TC01_AdminPageTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC01_AdminPageTest@3e58a80e]" started-at="2024-09-26T06:34:29 IST" name="setUp" finished-at="2024-09-26T06:34:39 IST" duration-ms="9822" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginWithValidCredentials()[pri:0, instance:testCases.TC01_AdminPageTest@3e58a80e]" started-at="2024-09-26T06:34:39 IST" name="loginWithValidCredentials" finished-at="2024-09-26T06:34:42 IST" duration-ms="3096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+        <test-method signature="clickAdminButton()[pri:1, instance:testCases.TC01_AdminPageTest@3e58a80e]" started-at="2024-09-26T06:34:42 IST" name="clickAdminButton" finished-at="2024-09-26T06:34:43 IST" duration-ms="1531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickAdminButton -->
+        <test-method signature="testSearchValidSystemUsers(java.lang.String)[pri:2, instance:testCases.TC01_AdminPageTest@3e58a80e]" started-at="2024-09-26T06:34:43 IST" name="testSearchValidSystemUsers" data-provider="validSearchTerms" finished-at="2024-09-26T06:34:45 IST" duration-ms="1304" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchValidSystemUsers -->
+        <test-method signature="testSearchValidSystemUsers(java.lang.String)[pri:2, instance:testCases.TC01_AdminPageTest@3e58a80e]" started-at="2024-09-26T06:34:45 IST" name="testSearchValidSystemUsers" data-provider="validSearchTerms" finished-at="2024-09-26T06:34:45 IST" duration-ms="669" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchValidSystemUsers -->
+        <test-method signature="testSearchInvalidSystemUsers(java.lang.String)[pri:3, instance:testCases.TC01_AdminPageTest@3e58a80e]" started-at="2024-09-26T06:34:45 IST" name="testSearchInvalidSystemUsers" data-provider="invalidSearchTerms" finished-at="2024-09-26T06:34:46 IST" duration-ms="735" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AAA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchInvalidSystemUsers -->
+        <test-method signature="testSearchInvalidSystemUsers(java.lang.String)[pri:3, instance:testCases.TC01_AdminPageTest@3e58a80e]" started-at="2024-09-26T06:34:46 IST" name="testSearchInvalidSystemUsers" data-provider="invalidSearchTerms" finished-at="2024-09-26T06:34:47 IST" duration-ms="665" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[BBB]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchInvalidSystemUsers -->
+        <test-method signature="logout()[pri:4, instance:testCases.TC01_AdminPageTest@3e58a80e]" started-at="2024-09-26T06:34:47 IST" name="logout" finished-at="2024-09-26T06:34:48 IST" duration-ms="1101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC01_AdminPageTest@3e58a80e]" started-at="2024-09-26T06:34:48 IST" name="tearDown" finished-at="2024-09-26T06:34:49 IST" duration-ms="595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC01_AdminPageTest -->
+      <class name="testCases.TC02_LoginDDT">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_LoginDDT@4cc451f2]" started-at="2024-09-26T06:34:49 IST" name="setUp" finished-at="2024-09-26T06:34:56 IST" duration-ms="7288" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validLogin(java.lang.String,java.lang.String)[pri:1, instance:testCases.TC02_LoginDDT@4cc451f2]" started-at="2024-09-26T06:34:57 IST" name="validLogin" data-provider="validCredentials" finished-at="2024-09-26T06:35:01 IST" duration-ms="3292" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method signature="validLogin(java.lang.String,java.lang.String)[pri:1, instance:testCases.TC02_LoginDDT@4cc451f2]" started-at="2024-09-26T06:35:01 IST" name="validLogin" data-provider="validCredentials" finished-at="2024-09-26T06:35:04 IST" duration-ms="3615" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method signature="invalidLogin(java.lang.String,java.lang.String)[pri:2, instance:testCases.TC02_LoginDDT@4cc451f2]" started-at="2024-09-26T06:35:04 IST" name="invalidLogin" data-provider="invalidCredentials" finished-at="2024-09-26T06:35:06 IST" duration-ms="1568" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method signature="invalidLogin(java.lang.String,java.lang.String)[pri:2, instance:testCases.TC02_LoginDDT@4cc451f2]" started-at="2024-09-26T06:35:06 IST" name="invalidLogin" data-provider="invalidCredentials" finished-at="2024-09-26T06:35:07 IST" duration-ms="1287" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[habsn]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bhjn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC02_LoginDDT@4cc451f2]" started-at="2024-09-26T06:35:07 IST" name="tearDown" finished-at="2024-09-26T06:35:07 IST" duration-ms="369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC02_LoginDDT -->
+    </test> <!-- loginPageTest -->
+  </suite> <!-- masterSuite -->
+</testng-results>

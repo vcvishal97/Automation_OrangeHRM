@@ -1,0 +1,41 @@
+2024-08-12 07:36:39,290(HH:mm:ss.SSS) [main] INFO  testCases.TC03_LoginDDT Logging out.
+2024-08-24 16:53:17,881(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-24 16:53:17,890(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-08-24 16:53:19,128(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-24 16:53:22,112(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-24 16:53:23,006(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-24 16:53:33,175(HH:mm:ss.SSS) [main] ERROR testCases.TC00_LoginPageTest Test failed.
+2024-08-24 16:53:33,176(HH:mm:ss.SSS) [main] DEBUG testCases.TC00_LoginPageTest Debug logs.
+2024-08-24 16:53:33,191(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Logging out.
+2024-08-24 16:59:39,802(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-24 16:59:39,812(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-08-24 16:59:41,241(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-24 16:59:42,730(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-24 16:59:42,730(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Logging out.
+2024-08-24 16:59:54,713(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-24 16:59:55,041(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-24 16:59:55,042(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Logging out.
+2024-08-24 17:01:02,418(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-24 17:01:02,428(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-08-24 17:01:03,906(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-24 17:01:05,575(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-24 17:01:06,055(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Logging out.
+2024-08-24 17:01:07,491(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-24 17:01:09,535(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-24 17:01:10,035(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Logging out.
+2024-08-24 17:18:21,178(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-24 17:18:21,191(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-08-24 17:18:22,441(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-24 17:18:24,012(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-24 17:18:24,554(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Logging out.
+2024-08-24 17:18:26,367(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest **** Starting loginWithValidCredentials ***
+2024-08-24 17:18:28,149(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Validating
+2024-08-24 17:18:28,650(HH:mm:ss.SSS) [main] INFO  testCases.TC00_LoginPageTest Logging out.
+2024-08-24 17:33:48,125(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-24 17:33:48,136(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-08-24 17:36:28,718(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-24 17:36:28,732(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-08-24 17:38:30,576(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-24 17:38:30,600(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-08-24 17:40:09,061(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-24 17:40:09,073(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels

@@ -1,0 +1,46 @@
+2024-09-07 19:07:19,487(HH:mm:ss.SSS) [TestNG-tests-3] INFO  testCases.TC02_LoginDDT Validating
+2024-09-07 19:07:19,498(HH:mm:ss.SSS) [TestNG-tests-2] ERROR testCases.TC02_LoginDDT Test failed.
+2024-09-07 19:07:19,500(HH:mm:ss.SSS) [TestNG-tests-2] DEBUG testCases.TC02_LoginDDT Debug logs.
+2024-09-07 19:07:19,514(HH:mm:ss.SSS) [TestNG-tests-2] INFO  testCases.TC02_LoginDDT **** Starting loginWithInvalidCredentials ***
+2024-09-07 19:07:21,111(HH:mm:ss.SSS) [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-07 19:07:21,112(HH:mm:ss.SSS) [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-09-07 19:07:21,159(HH:mm:ss.SSS) [TestNG-tests-1] INFO  testCases.TC02_LoginDDT **** Starting loginWithInvalidCredentials ***
+2024-09-07 19:07:29,519(HH:mm:ss.SSS) [TestNG-tests-3] INFO  testCases.TC02_LoginDDT **** Starting loginWithValidCredentials ***
+2024-09-07 19:07:30,912(HH:mm:ss.SSS) [TestNG-tests-1] INFO  testCases.TC02_LoginDDT Validating
+2024-09-07 19:07:30,925(HH:mm:ss.SSS) [TestNG-tests-2] ERROR testCases.TC02_LoginDDT Test failed.
+2024-09-07 19:07:30,925(HH:mm:ss.SSS) [TestNG-tests-2] DEBUG testCases.TC02_LoginDDT Debug logs.
+2024-09-07 19:07:30,926(HH:mm:ss.SSS) [TestNG-tests-3] ERROR testCases.TC02_LoginDDT Test failed.
+2024-09-07 19:07:30,926(HH:mm:ss.SSS) [TestNG-tests-3] DEBUG testCases.TC02_LoginDDT Debug logs.
+2024-09-07 19:07:30,970(HH:mm:ss.SSS) [TestNG-tests-3] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-07 19:07:30,976(HH:mm:ss.SSS) [TestNG-tests-3] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-09-07 19:07:31,028(HH:mm:ss.SSS) [TestNG-tests-3] INFO  testCases.TC02_LoginDDT **** Starting loginWithInvalidCredentials ***
+2024-09-07 19:07:36,934(HH:mm:ss.SSS) [TestNG-tests-3] ERROR testCases.TC02_LoginDDT Test failed.
+2024-09-07 19:07:36,935(HH:mm:ss.SSS) [TestNG-tests-3] DEBUG testCases.TC02_LoginDDT Debug logs.
+2024-09-07 19:07:36,938(HH:mm:ss.SSS) [TestNG-tests-3] INFO  testCases.TC02_LoginDDT **** Starting loginWithInvalidCredentials ***
+2024-09-07 19:07:36,942(HH:mm:ss.SSS) [TestNG-tests-3] ERROR testCases.TC02_LoginDDT Test failed.
+2024-09-07 19:07:36,943(HH:mm:ss.SSS) [TestNG-tests-3] DEBUG testCases.TC02_LoginDDT Debug logs.
+2024-09-07 19:09:54,277(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest **** Starting loginWithValidCredentials ***
+2024-09-07 19:09:56,753(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Validating
+2024-09-07 19:10:02,469(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Logging out.
+2024-09-07 20:45:55,058(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest **** Starting loginWithValidCredentials ***
+2024-09-07 20:45:59,054(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Validating
+2024-09-07 20:46:07,946(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Logging out.
+2024-09-07 21:03:07,914(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest **** Starting loginWithValidCredentials ***
+2024-09-07 21:03:10,472(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Validating
+2024-09-07 21:03:37,412(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Logging out.
+2024-09-07 21:08:19,310(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest **** Starting loginWithValidCredentials ***
+2024-09-07 21:08:22,451(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Validating
+2024-09-07 21:08:51,842(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Logging out.
+2024-09-07 21:11:13,847(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest **** Starting loginWithValidCredentials ***
+2024-09-07 21:11:16,070(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Validating
+2024-09-07 21:11:42,626(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Logging out.
+2024-09-10 19:16:09,871(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest **** Starting loginWithValidCredentials ***
+2024-09-10 19:16:14,226(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Validating
+2024-09-10 19:16:29,285(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Logging out.
+2024-09-17 19:24:54,645(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest **** Starting loginWithValidCredentials ***
+2024-09-17 19:24:54,804(HH:mm:ss.SSS) [main] ERROR testCases.TC01_AdminPageTest Test failed.
+2024-09-17 19:24:54,805(HH:mm:ss.SSS) [main] DEBUG testCases.TC01_AdminPageTest Debug logs.
+2024-09-17 19:24:55,362(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Logging out.
+2024-09-21 14:21:04,872(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest **** Starting loginWithValidCredentials ***
+2024-09-21 14:21:08,048(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Validating
+2024-09-21 14:21:14,220(HH:mm:ss.SSS) [main] INFO  testCases.TC01_AdminPageTest Logging out.
